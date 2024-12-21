@@ -1,6 +1,6 @@
-# nimodrive
+# Example rest api
 
-nimodrive
+rest api
 
 ## Getting Started
 
